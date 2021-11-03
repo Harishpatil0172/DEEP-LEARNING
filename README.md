@@ -13,3 +13,13 @@ As haar cascade is used for object detection we have a very vast scope for this 
 
 
 ##Face Swap:
+
+In this project, we will be using #opencv and #dlib to extract faces of human-beings from a given image. We will use a pretrained model to extract landmarks from the faces.
+
+# Conclusion
+
+We started with downloading the pretrained model for face landmark and download the images from the internet on which we will work. Next we used CV2 and Dlib for preprocessing the images and used different functionalities to make reach to the end which is swapping the face of destination image with source image.
+
+# Scope
+
+This project can be used for learning and understanding different concepts of computer vision. This project can be use to build Augmented Reality applications like Snapchat, etc.
